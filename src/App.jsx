@@ -11,14 +11,13 @@ function App() {
       <div id="images">
         <div className="image-with-caption">
           <img src="/Boy image.webp" alt="" />
-          <p>Yum Yum</p>
+          <p>Yum </p>
         </div>
         <div className="image-with-caption">
           <img src="/burger image.jpg" alt="" />
-          <p>Yum Yum</p>
+          <p>Yum </p>
         </div>
       </div>
-
       <div className="container my-4">
         <div className="row">
           <div className="col-4 text-center">

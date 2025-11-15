@@ -1,24 +1,24 @@
 #best-burger {
-  color: red;
+  color: black;
   font-style: italic;
-  font-size: 5rem;
+  font-size: 8rem;
   text-align: center;
   background-color: violet;
-  margin-bottom: 2rem;
+  margin-bottom: 15 rem;
 }
 #plant-based {
   color: green;
   font-style: italic;
-  font-size: 3rem;
+  font-size: 2rem;
   text-align: center;
   margin-bottom: 2rem;
 }
 #really-yummy {
   color: green;
   font-style: italic;
-  font-size: 5rem;
+  font-size: 4rem;
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 4rem;
 }
 #images {
   display: flex;
