@@ -1,35 +1,63 @@
+body {
+  background-color: #dfa701;
+  color: rgb(90, 0, 173);
+}
+#hero {
+  position: relative;
+}
+#hero #backdrop {
+  position: absolute;
+  z-index: -1;
+  mix-blend-mode: darken;
+  opacity: 0.5;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
 #best-burger {
   color: black;
   font-style: italic;
-  font-size: 8rem;
+  font-size: 6em;
   text-align: center;
-  background-color: violet;
-  margin-bottom: 15 rem;
+  background-color: #fff8e1;
+  margin-bottom: 2rem;
+}
+#plant-based,
+#family-friendly,
+#really-yummy {
+  text-shadow: 1px 1px 0px white, -1px 1px 0px white, 1px -1px 0px white,
+    -1px -1px 0px white;
 }
 #plant-based {
-  color: green;
+  color: black;
+  font-style: italic;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+#family-friendly {
+  text-align: center;
+  color: black;
+}
+#really-yummy {
+  color: rgb(133, 0, 167);
   font-style: italic;
   font-size: 2rem;
   text-align: center;
-  margin-bottom: 2rem;
-}
-#really-yummy {
-  color: green;
-  font-style: italic;
-  font-size: 4rem;
-  text-align: center;
-  margin-bottom: 4rem;
+  margin-bottom: 3rem;
 }
 #images {
   display: flex;
   justify-content: space-around;
 }
 .image-with-caption img {
-  width: 600px;
-  height: 550px;
+  width: 400px;
+  height: 370px;
   object-fit: cover;
+  border-radius: 3rem;
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
 }
 .image-with-caption p {
-  font-size: 6rem;
+  font-size: 2rem;
   text-align: center;
 }
