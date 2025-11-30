@@ -24,11 +24,11 @@ function FoodSection() {
           </div>
           <div className="col-6">
             <ul>
-              <li>coffee:</li>
-              <li>latte macchiatto:</li>
-              <li>matcha:</li>
-              <li>mineral water:</li>
-              <li>lemonade:</li>
+              <li>coffee: €2.50</li>
+              <li>latte macchiatto: €3.80</li>
+              <li>matcha: €3.40</li>
+              <li>mineral water: €2:40</li>
+              <li>lemonade: €2:80</li>
             </ul>
           </div>
         </div>{" "}

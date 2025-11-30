@@ -17,7 +17,7 @@ function PlaceSection() {
         <br />
         +49 174 8375 674
       </p>
-      <img src="https://i.imgur.com/vMVNwBM.png" alt="" />
+      <img src="https://i.imgur.com/vMVNwBM.png" width="100%" alt="" />
     </section>
   );
 }

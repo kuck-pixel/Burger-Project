@@ -26,6 +26,19 @@ function PeopleSection() {
           cupiditate. Optio ipsam unde ipsa sit pariatur. Nesciunt eveniet
           quibusdam possimus, fuga aliquam ad? Odit impedit doloribus modi!
         </p>
+
+        <p>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Doloremque
+          blanditiis numquam quas cupiditate. Optio ipsam unde ipsa sit
+          pariatur. Nesciunt eveniet quibusdam possimus, fuga aliquam ad? Odit
+          impedit doloribus modi!Lorem, ipsum dolor sit amet consectetur
+          adipisicing elit. Doloremque blanditiis numquam quas cupiditate. Optio
+          ipsam unde ipsa sit pariatur. Nesciunt eveniet quibusdam possimus,
+          fuga aliquam ad? Odit impedit doloribus modi!Lorem, ipsum dolor sit
+          amet consectetur adipisicing elit. Doloremque blanditiis numquam quas
+          cupiditate. Optio ipsam unde ipsa sit pariatur. Nesciunt eveniet
+          quibusdam possimus, fuga aliquam ad? Odit impedit doloribus modi!
+        </p>
       </section>
     </div>
   );

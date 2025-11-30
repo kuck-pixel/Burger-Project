@@ -49,13 +49,14 @@ body {
 #images {
   display: flex;
   justify-content: space-around;
+  flex-wrap: wrap; /* allows the flex items to make more rows if they run out of room */
 }
 .image-with-caption img {
   width: 400px;
   height: 370px;
   object-fit: cover;
-  border-radius: 3rem;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 3rem; /* make the corners rounded */
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.5);
 }
 .image-with-caption p {
   font-size: 2rem;
